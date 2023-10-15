@@ -66,7 +66,7 @@ namespace GameList.Migrations
                             GameId = 3,
                             Name = "Kingdom Hearts",
                             Rating = 5,
-                            Year = 2002s
+                            Year = 2002
                         });
                 });
 #pragma warning restore 612, 618
