@@ -50,23 +50,23 @@ namespace GameList.Migrations
                         new
                         {
                             GameId = 1,
-                            Name = "Test",
-                            Rating = 4,
-                            Year = 2023
+                            Name = "Viva Pinata",
+                            Rating = 2,
+                            Year = 2006
                         },
                         new
                         {
                             GameId = 2,
-                            Name = "Test",
+                            Name = "Tales of Vesparia",
                             Rating = 4,
-                            Year = 2002
+                            Year = 2009
                         },
                         new
                         {
                             GameId = 3,
-                            Name = "Test",
-                            Rating = 4,
-                            Year = 2000
+                            Name = "Kingdom Hearts",
+                            Rating = 5,
+                            Year = 2002s
                         });
                 });
 #pragma warning restore 612, 618

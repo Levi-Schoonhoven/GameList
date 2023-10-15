@@ -15,23 +15,23 @@ namespace GameList.Models
                 new Game
                 {
                     GameId = 1,
-                    Name = "Test",
+                    Name = "Viva Pinata",
                     Year = 2023,
-                    Rating = 4
+                    Rating = 2006
                 },
                 new Game
                 {
                     GameId = 2,
-                    Name = "Test",
-                    Year = 2002,
+                    Name = "Tales of Vesperia",
+                    Year = 2009,
                     Rating = 4
                 },
                 new Game
                 {
                     GameId = 3,
-                    Name = "Test",
-                    Year = 2000,
-                    Rating = 4
+                    Name = "Kingdom Hearts",
+                    Year = 2002,
+                    Rating = 5
                 }
                 );
         }
